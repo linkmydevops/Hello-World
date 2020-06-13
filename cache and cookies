@@ -10,3 +10,13 @@ This is done n order to remember its information like login, password etc.
 
 For example, 
 stores info so you don’t need repeated login into Facebook, youtube etc every time you go on that website using your machine
+
+SSH 22
+SMTP 25
+DNS 53
+HTTP 80
+HTTPS 443
+SAMBA 445
+NTP - 123
+NFS - 111
+mysql - 3306
