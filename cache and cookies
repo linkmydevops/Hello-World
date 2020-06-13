@@ -1,0 +1,12 @@
+## Cache is a temporary storage your machine uses to fetch things faster 
+
+For example, 
+Cache stores a repeated webpage, images and files you visited overtime 
+You go to that website, cache opens it rather than the fetching from the original web page 
+This helps save time and data usage
+
+## Cookies are info/data transferred from a web server to a web browser of a machine 
+This is done n order to remember its information like login, password etc.
+
+For example, 
+stores info so you don’t need repeated login into Facebook, youtube etc every time you go on that website using your machine
